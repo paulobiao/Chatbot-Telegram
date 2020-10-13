@@ -4,7 +4,7 @@ const dialogflow = require('./dialogflow');
 
 const youtube = require('./youtube');
 
-const token = '1367572090:AAGI5e-evAQquQd6hay3TK2M6_HtN6jSKHo';
+const token = ''
 
 const bot = new TelegramBot(token, { polling: true });
 
